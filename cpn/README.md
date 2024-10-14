@@ -65,6 +65,10 @@
 * Les protéger des intérêts commerciaux
 * On rassure, on renforce la confiance, on informe
 
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
