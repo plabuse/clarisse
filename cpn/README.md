@@ -49,7 +49,12 @@
 
 ### CONTRACEPTION
 
-* ...
+* Période idéale pour aborder la question de la contraception
+* __Reprise ovulation dès J21__ Choix selon désir de la patiente mais selon les pathologies de la grossesse et l’allaitement maternel
+* __Risque Thrombo-embolique__ majeur entre J21 et 6 semaines post partum
+* Toutes les contraceptions passent dans le lait
+* __Pas de COP__ avant J42 sans AM et pas avant 6 mois si AM
+* __Microprogestative__ en pilule, implant, ou DIU
 
 ## ALLAITEMENT MATERNEL (AM)
 
