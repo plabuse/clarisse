@@ -7,8 +7,26 @@
 ## La consultation post-natale
 
 ### OBJECTIF
+
+* Créer un climat de confiance afin que la femme puisse s’exprimer sur son vécu de la grossesse, de l’accouchement le retour au domicile, sa relation avec son enfant mais aussi avec son conjoint, la gestion de la fatigue et lui permettre de faire part de ses inquiétudes et questionnements.
+* Écouter, rassurer et informer
+
 ### SANTÉ PHYSIQUE
+
+* Interroger sur les pathologies de la grossesse (diabète gestationnel, cholestase gravidique, prééclampsie)
+* Interroger sur l’incontinence urinaire, les pertes vaginales, présence de douleur, complications de l’allaitement (crevasse)
+* Rechercher des signes d’anémie, d’infection, MTEV
+* Prendre la tension, pesée la patiente
+* Vérifier la cicatrice de césarienne
+
 ### SANTÉ MENTALE
+
+* Le post partum est une période de vulnérabilité
+* Repérer les facteurs de risque : isolement social, âge, antécédents psychiatriques, de maltraitance, déni de grossesse, grossesse et accouchement difficile, pathologie fœtale
+* Baby blues = touche 30 à 80% des femmes, adaptation physiologique, apparait entre 2 et 5 jours post partum et dure maximum 10 jours
+* EDC = 15% des femmes, c’est une urgence diagnostique car impact sur le développement de l’enfant et la famille est majeur. Sous diagnostiqué.
+* Échelle d’Édinbourg permet un repérage rapide des EDC
+* Si bizarreries, confusion = hospitalisation en urgence
 
 ## Conseil de la vie quotidienne
 
@@ -34,3 +52,10 @@
 * ...
 
 ## ALLAITEMENT MATERNEL (AM)
+
+* But = soutenir l’allaitement maternel
+* OMS recommande AM exclusif jusqu’à 6 mois et partiel jusqu’à 2 ans
+* AM = multiples avantages économiques, de santé pour l’enfant et la femme
+* Soutien pratique avec les conseils de positionnements, stimulation production de lait, reconnaitre les signes du bébé, repos, proposer les 2 seins, tétée à la demande, pas de tétine, pas d’embout de sein
+* Les protéger des intérêts commerciaux
+* On rassure, on renforce la confiance, on informe
