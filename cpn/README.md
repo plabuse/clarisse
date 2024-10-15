@@ -21,6 +21,9 @@
 
 ### SANTÉ MENTALE
 
+> [!NOTE]
+> Le post partum est une période de vulnérabilité
+
 * Le post partum est une période de vulnérabilité
 * Repérer les facteurs de risque : isolement social, âge, antécédents psychiatriques, de maltraitance, déni de grossesse, grossesse et accouchement difficile, pathologie fœtale
 * Baby blues = touche 30 à 80% des femmes, adaptation physiologique, apparait entre 2 et 5 jours post partum et dure maximum 10 jours
@@ -29,6 +32,9 @@
 * Si bizarreries, confusion = hospitalisation en urgence
 
 ## Conseil de la vie quotidienne
+
+> [!TIP]
+> __FATIGUE__ = déléguer les taches, se caler sur le rythme du bébé, impliquer les proches et accepter de l’aide
 
 * __FATIGUE__ = déléguer les taches, se caler sur le rythme du bébé, impliquer les proches et accepter de l’aide
 * __SPORT__ = Reprise progressive, varie selon le mode d’accouchement, multiples bénéfices physiques et psychiques
@@ -64,6 +70,12 @@
 * Soutien pratique avec les conseils de positionnements, stimulation production de lait, reconnaitre les signes du bébé, repos, proposer les 2 seins, tétée à la demande, pas de tétine, pas d’embout de sein
 * Les protéger des intérêts commerciaux
 * On rassure, on renforce la confiance, on informe
+
+## Vidéos
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
+## Exemples de formatage
 
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
