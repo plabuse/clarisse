@@ -99,14 +99,11 @@ Markdown | Less | Pretty
 
 ### Images
 
-![personne-touchant-le-ventre-dune-personne](https://unsplash.com/fr/photos/personne-touchant-le-ventre-dune-personne-X3DZ1c7MPa4)
-
-
 ![personne-touchant-le-ventre-dune-personne](https://images.unsplash.com/photo-1532706302136-347336b002ec?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+<img src="https://images.unsplash.com/photo-1532706302136-347336b002ec?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="64">
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+### Badges
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
