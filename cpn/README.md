@@ -73,13 +73,8 @@
 
 ## Vidéos
 
-* test1
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+### Exemple
 
-* test2
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
-
-* test3
 [![Vidéo1](https://img.youtube.com/vi/KFXvQAp8_KI/0.jpg)](https://www.youtube.com/watch?v=KFXvQAp8_KI "Video1")
 
 ## Exemples de formatage
@@ -104,7 +99,10 @@ Markdown | Less | Pretty
 
 ### Images
 
-![personne-touchant-le-ventre-dune-personne]'https://unsplash.com/fr/photos/personne-touchant-le-ventre-dune-personne-X3DZ1c7MPa4)
+![personne-touchant-le-ventre-dune-personne](https://unsplash.com/fr/photos/personne-touchant-le-ventre-dune-personne-X3DZ1c7MPa4)
+
+
+![personne-touchant-le-ventre-dune-personne](https://images.unsplash.com/photo-1532706302136-347336b002ec?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
