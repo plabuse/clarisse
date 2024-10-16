@@ -79,8 +79,12 @@
 * test2
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
+* test3
+[![Vidéo1](https://img.youtube.com/vi/KFXvQAp8_KI/0.jpg)](https://www.youtube.com/watch?v=KFXvQAp8_KI "Video1")
+
 ## Exemples de formatage
 
+### Tableau
 Colons can be used to align columns.
 
 | Tables        | Are           | Cool  |
@@ -98,6 +102,9 @@ Markdown | Less | Pretty
 *Still* | `renders` | **nicely**
 1 | 2 | 3
 
+### Images
+
+![personne-touchant-le-ventre-dune-personne]'https://unsplash.com/fr/photos/personne-touchant-le-ventre-dune-personne-X3DZ1c7MPa4)
 
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
@@ -117,6 +124,8 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
+
+### Notes de bas de page
 
 Here is a simple footnote[^1].
 
