@@ -99,9 +99,7 @@ Markdown | Less | Pretty
 
 ### Images
 
-![personne-touchant-le-ventre-dune-personne](https://images.unsplash.com/photo-1532706302136-347336b002ec?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-
-<img src="https://images.unsplash.com/photo-1532706302136-347336b002ec?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="64">
+<img src="https://images.unsplash.com/photo-1532706302136-347336b002ec?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="240" alt="personne-touchant-le-ventre-dune-personne">
 
 ### Badges
 
